@@ -1,4 +1,4 @@
-## Setup Instructions
+## Setup Documentation
 
 ### 1. Install JDK and Configure Environment
 
