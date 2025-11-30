@@ -3,7 +3,7 @@
 ### 1. JVM Components Overview
 
 **JVM Architecture Diagram**
-![JVM Architecture Diagram](../media/jvm-architecture.jpeg)
+![JVM Architecture Diagram](../media/jvm_architecture.jpeg)
 
 **High‑level data flow diagram:**
 
